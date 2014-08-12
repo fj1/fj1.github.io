@@ -333,6 +333,13 @@ input[type="reset"]:hover,
 /*********************************************************************************/
 /* Icons                                                                         */
 /*********************************************************************************/
+
+/* moving icons around to make up for commented-out form */
+#icon-section {
+	width: 100%;
+	margin-left: 15%;
+}
+
 .icon { text-decoration: none }
 .icon:before {
     display: inline-block;
