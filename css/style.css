@@ -14,6 +14,10 @@
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
+#my-name {
+	font-family: 'Fredericka the Great', cursive;
+}
+
 body { background: #f5f7fa }
 body.is-loading * {
     -moz-transition: none !important;
