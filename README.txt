@@ -1,7 +1,7 @@
 Personal portfolio for Frances Jurek
 Viewable at www.francesjurek.com
 
-*****************************************************************************************
+************************************************************************
 
 Telephasic by HTML5 UP
 html5up.net | @n33co
