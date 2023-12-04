@@ -1,0 +1,11 @@
+html {
+  --color-light: #f3dfc1;
+  --color-dark: #0d1f31;
+  --color-accent: #e91aa1;
+  --color-accent-light: #f490d1;
+  --color-link: #f3dfc1;
+  --gap: 2rem;
+  --hover-shadow: 0px 0px 15px 5px var(--color-accent);
+
+  height: 100%;
+}

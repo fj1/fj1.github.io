@@ -1,0 +1,11 @@
+.pill {
+  border-radius: 15px;
+  padding: 5px 10px;
+  background-color: #97d8d5;
+  font-weight: 400;
+}
+
+.pill:hover,
+.pill:focus {
+  box-shadow: var(--hover-shadow);
+}

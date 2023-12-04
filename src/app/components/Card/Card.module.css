@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--color-light);
+  height: 9rem;
+  width: 8rem;
+  align-items: center;
+  border-radius: 15px;
+  color: var(--color-link);
+  background-image: linear-gradient(#1e4471, var(--color-dark));
+}
+
+.card:hover,
+.card:focus {
+  box-shadow: var(--hover-shadow);
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+  flex-grow: 2;
+}
+
+.resourceLabel {
+  margin: 0.5rem 0;
+}
