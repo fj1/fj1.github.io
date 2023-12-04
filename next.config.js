@@ -4,6 +4,9 @@ const withMDX = require('@next/mdx')();
 const nextConfig = {
   // Configure `pageExtensions` to include MDX files
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
+
+  // enable static exports
+  output: 'export',
 };
 
 module.exports = withMDX(nextConfig);
