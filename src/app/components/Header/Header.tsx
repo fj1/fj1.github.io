@@ -11,7 +11,7 @@ export default function Header() {
           Frances Jurek
         </h1>
         <h2 className={firaCode.className}>
-          Software engineer with a love for frontend
+          Fullstack software engineer with a love for frontend
         </h2>
       </header>
       <Nav />
